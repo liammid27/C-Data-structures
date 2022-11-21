@@ -1,0 +1,14 @@
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.exe
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.deps.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.genruntimeconfig.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.csproj.AssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.GeneratedMSBuildEditorConfig.editorconfig

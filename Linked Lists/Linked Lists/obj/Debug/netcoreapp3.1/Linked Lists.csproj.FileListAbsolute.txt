@@ -1,0 +1,27 @@
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.exe
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.deps.json
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.runtimeconfig.json
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.dll
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.pdb
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.AssemblyInfo.cs
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.dll
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.pdb
+C:\Users\Liam\Desktop\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.genruntimeconfig.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.exe
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.deps.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.runtimeconfig.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\bin\Debug\netcoreapp3.1\Linked Lists.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.genruntimeconfig.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.csproj.AssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Linked Lists\Linked Lists\obj\Debug\netcoreapp3.1\Linked Lists.GeneratedMSBuildEditorConfig.editorconfig

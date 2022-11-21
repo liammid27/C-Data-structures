@@ -1,0 +1,13 @@
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\bin\Debug\netcoreapp3.1\Adjacency List.exe
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\bin\Debug\netcoreapp3.1\Adjacency List.deps.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\bin\Debug\netcoreapp3.1\Adjacency List.runtimeconfig.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\bin\Debug\netcoreapp3.1\Adjacency List.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\bin\Debug\netcoreapp3.1\Adjacency List.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\bin\Debug\netcoreapp3.1\Adjacency List.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Adjacency List\Adjacency List\obj\Debug\netcoreapp3.1\Adjacency List.genruntimeconfig.cache

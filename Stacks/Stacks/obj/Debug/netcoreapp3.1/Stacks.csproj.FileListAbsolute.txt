@@ -1,0 +1,14 @@
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.exe
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.deps.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.genruntimeconfig.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.csproj.AssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.GeneratedMSBuildEditorConfig.editorconfig
